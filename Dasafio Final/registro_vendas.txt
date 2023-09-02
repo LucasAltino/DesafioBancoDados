@@ -1,0 +1,3 @@
+Peso: 1000
+Preço por Quilo: 2
+Valor Total: 2000
